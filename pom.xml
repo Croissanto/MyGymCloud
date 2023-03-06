@@ -24,6 +24,7 @@
     <modules>
         <module>mygym</module>
         <module>eureka</module>
+        <module>admin</module>
     </modules>
 
     <dependencies>
