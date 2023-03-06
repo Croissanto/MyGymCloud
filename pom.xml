@@ -20,7 +20,7 @@
         <java.version>17</java.version>
     </properties>
     <modules>
-        <module>mygymcloud</module>
+        <module>mygym</module>
 
     </modules>
     <dependencies>
