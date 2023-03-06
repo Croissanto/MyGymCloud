@@ -21,8 +21,9 @@
     </properties>
     <modules>
         <module>mygym</module>
-
+        <module>eureka</module>
     </modules>
+
     <dependencies>
 
     </dependencies>
