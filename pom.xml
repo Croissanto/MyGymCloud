@@ -26,6 +26,7 @@
         <module>mygym</module>
         <module>eureka</module>
         <module>admin</module>
+        <module>configserver</module>
     </modules>
 
     <dependencies>
